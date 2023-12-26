@@ -4118,6 +4118,9 @@ aside
 {
     position: relative;
 
+    display: flex;
+    flex-direction: column;
+
     padding: 36px 20px 16px;
 
     transition: border-color .2s linear;
@@ -4206,11 +4209,41 @@ aside
 }
 
 
+.products .product .not_available
+{
+    margin-bottom: 12px;
+
+    text-align: right;
+}
+
+
+.products .product .not_available span
+{
+    font-size: 9px;
+    font-weight: 700;
+    line-height: 14px;
+
+    display: inline-block;
+
+    height: 16px;
+    padding: 0 7px;
+
+    vertical-align: top;
+    letter-spacing: .81px;
+    text-transform: uppercase;
+
+    color: #ea6c66;
+    border: 1px solid;
+}
+
+
 .products .product .name
 {
     font-size: 18px;
     font-weight: 500;
     line-height: 24px;
+
+    margin-top: auto;
 }
 
 .products .product .name a
