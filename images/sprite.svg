@@ -1,0 +1,86 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 7.1 4.05" id="ic_arr">
+    <line x1="6.6" y1="0.5" x2="3.55" y2="3.55" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+    <line x1="0.5" y1="0.5" x2="3.55" y2="3.55" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 7.58 14.17" id="ic_arr2">
+    <line x1="0.5" y1="0.5" x2="7.08" y2="7.08" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+    <line x1="0.5" y1="13.67" x2="7.08" y2="7.08" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 12.44 7.09" id="ic_arrow">
+    <path d="M12.4,3.74a.5.5,0,0,0,0-.38.62.62,0,0,0-.11-.17l-3-3a.5.5,0,0,0-.71,0,.5.5,0,0,0,0,.7l2.2,2.2H.5a.5.5,0,0,0-.5.5.5.5,0,0,0,.5.5H10.73L8.53,6.24a.51.51,0,0,0,0,.71.5.5,0,0,0,.36.14A.47.47,0,0,0,9.24,7l3-3.05a.46.46,0,0,0,.11-.16" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 19.08" id="ic_buy">
+    <path d="M14.49,6.38a.51.51,0,0,1,.51.5V17.57a.51.51,0,0,1-.51.51h-13A.51.51,0,0,1,1,17.57V6.88a.51.51,0,0,1,.51-.5h13m0-1h-13A1.51,1.51,0,0,0,0,6.88V17.57a1.52,1.52,0,0,0,1.51,1.51h13A1.52,1.52,0,0,0,16,17.57V6.88a1.51,1.51,0,0,0-1.51-1.5" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M4.1,4.9a3.9,3.9,0,0,1,7.8,0V6.27h1V4.9a4.9,4.9,0,0,0-9.8,0V6.27h1Z" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 10.22 7.17" id="ic_check">
+    <line x1="9.22" y1="1" x2="4.05" y2="6.17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></line>
+    <line x1="1" y1="3.12" x2="4.05" y2="6.17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"></line>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16.77 16.78" id="ic_close">
+    <line x1="0.5" y1="0.5" x2="16.27" y2="16.28" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+    <line x1="0.5" y1="16.28" x2="16.27" y2="0.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19 17.64" id="ic_favorite">
+    <path d="M13.56,1.5A4.94,4.94,0,0,1,15.81,2a5.24,5.24,0,0,1,2.51,3.36,5.39,5.39,0,0,1-.75,4.39h0l0,.08h0c-.52.85-3.37,3.5-7.38,6.86L10,16.54l-.15.18c-4-3.36-6.85-6-7.37-6.86h0l-.06-.08h0a5.35,5.35,0,0,1-.75-4.39A5.24,5.24,0,0,1,4.19,2,4.93,4.93,0,0,1,6.43,1.5a7.36,7.36,0,0,1,3.13.79l.44.22.44-.22a7.35,7.35,0,0,1,3.12-.79m0-1A8.15,8.15,0,0,0,10,1.4,8.16,8.16,0,0,0,6.43.5a5.79,5.79,0,0,0-2.69.64,6.25,6.25,0,0,0-3,4,6.33,6.33,0,0,0,.9,5.2l0-.05,0,.08,0,0c.86,1.49,6.62,6.33,8.39,7.8h0c1.77-1.47,7.53-6.31,8.39-7.8l0,0,.05-.08,0,.05a6.33,6.33,0,0,0,.9-5.2,6.25,6.25,0,0,0-3-4A5.8,5.8,0,0,0,13.56.5" transform="translate(-0.5 -0.5)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 23.34 21.67" id="ic_favorite2">
+    <path d="M23.08,5.69A7.72,7.72,0,0,0,19.36.78a8.61,8.61,0,0,0-7.69.32A8.61,8.61,0,0,0,4,.78,7.69,7.69,0,0,0,.26,5.69a7.85,7.85,0,0,0,1.12,6.44L1.32,12c.92,1.74,8.15,7.82,10.34,9.65h0C13.87,19.84,21.1,13.76,22,12l-.07.11a7.81,7.81,0,0,0,1.13-6.44" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.21 23.9" id="ic_location">
+    <path d="M9.63,1.5a8.59,8.59,0,0,1,2.56.39A7.88,7.88,0,0,1,17.31,7a8.19,8.19,0,0,1-1.21,7.43L9.6,22.77,3.12,14.45A8,8,0,0,1,1.5,9.6,8.09,8.09,0,0,1,9.63,1.5m0,12A4.14,4.14,0,1,0,5.47,9.32,4.14,4.14,0,0,0,9.6,13.45M9.63.5A9.08,9.08,0,0,0,.5,9.6a9,9,0,0,0,1.82,5.45L9.6,24.4l7.29-9.35a9.19,9.19,0,0,0,1.37-8.34A8.85,8.85,0,0,0,12.49.94,9.42,9.42,0,0,0,9.63.5m0,12a3.14,3.14,0,1,1,3.14-3.13A3.13,3.13,0,0,1,9.6,12.45" transform="translate(-0.5 -0.5)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 21.22" id="ic_lock">
+    <path d="M14.49,8.52A.51.51,0,0,1,15,9v10.7a.51.51,0,0,1-.51.5h-13a.51.51,0,0,1-.51-.5V9a.51.51,0,0,1,.51-.5h13m0-1h-13A1.51,1.51,0,0,0,0,9v10.7a1.51,1.51,0,0,0,1.51,1.5h13A1.51,1.51,0,0,0,16,19.72V9a1.51,1.51,0,0,0-1.51-1.5" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M4.1,4.9a3.9,3.9,0,0,1,7.8,0V6.27h1V4.9a4.9,4.9,0,0,0-9.8,0V6.27h1Z" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M8,13.1a1.27,1.27,0,1,1-1.27,1.27A1.27,1.27,0,0,1,8,13.1m0-1a2.27,2.27,0,1,0,2.27,2.27A2.27,2.27,0,0,0,8,12.1" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22.95 21.22" id="ic_personal">
+    <path d="M9.65,4.37A4.35,4.35,0,0,1,14,8.71v.61A4.31,4.31,0,0,1,11.93,13l-.65.41.22.73a2.13,2.13,0,0,0,1,1.3c.15.09.4.21.87.44l.16.08c.85.41,2.13,1,2.85,1.48a2.53,2.53,0,0,1,1.36,2.06c0,.17,0,.52,0,.72H1.55c0-.2,0-.55,0-.71a2.52,2.52,0,0,1,1.35-2.07C3.66,17,5,16.37,5.8,16L6,15.88c.47-.23.72-.35.87-.44a2.13,2.13,0,0,0,1-1.3L8,13.41,7.36,13A4.31,4.31,0,0,1,5.3,9.32V8.71A4.35,4.35,0,0,1,9.65,4.37m0-1h0A5.36,5.36,0,0,0,4.3,8.71v.61a5.34,5.34,0,0,0,2.53,4.53,1.14,1.14,0,0,1-.51.73l-1,.48c-.92.45-2.18,1.07-2.94,1.53A3.53,3.53,0,0,0,.59,19.43c0,.26,0,.92,0,.92l0,.87H18.78l0-.87s0-.66-.05-.92a3.53,3.53,0,0,0-1.83-2.84c-.75-.46-2-1.08-2.94-1.53l-1-.48a1.18,1.18,0,0,1-.51-.73A5.32,5.32,0,0,0,15,9.32V8.71A5.35,5.35,0,0,0,9.65,3.37" transform="translate(-0.52 0)" fill="currentColor"></path>
+    <path d="M20,4.08a.51.51,0,0,0-.5-.5H13.67a.51.51,0,0,0-.22.06,7.45,7.45,0,0,1,1,.94h5a.5.5,0,0,0,.5-.5" transform="translate(-0.52 0)" fill="currentColor"></path>
+    <path d="M20,7.08a.51.51,0,0,0-.5-.5H15.62a7,7,0,0,1,.27,1h3.56a.5.5,0,0,0,.5-.5" transform="translate(-0.52 0)" fill="currentColor"></path>
+    <path d="M22.2,0H10.91A1.27,1.27,0,0,0,9.65,1.26V2.37a6.63,6.63,0,0,1,1,.08V1.26A.26.26,0,0,1,10.91,1H22.2a.27.27,0,0,1,.27.26V9.9a.28.28,0,0,1-.27.27H15.93a5.74,5.74,0,0,1-.21,1H22.2A1.27,1.27,0,0,0,23.47,9.9V1.26A1.27,1.27,0,0,0,22.2,0" transform="translate(-0.52 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18.86 18.85" id="ic_question">
+    <path d="M9.41.54A8.88,8.88,0,1,1,4.74,17l.08.08L1.34,18.3l1.34-3.09A8.89,8.89,0,0,1,9.41.54Z" transform="translate(0 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.08"></path>
+    <path d="M7.32,8.36c-.61-2.75,4.35-3.65,4.26-.16-.06.56-.31,1.16-1.64,2.29a1.93,1.93,0,0,0-.69.91" transform="translate(0 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.08"></path>
+    <path d="M9.14,12.53a.51.51,0,1,1-.5.51.51.51,0,0,1,.5-.51" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22" id="ic_question2">
+    <path d="M11,1A10,10,0,1,1,1,11,10,10,0,0,1,11,1m0-1A11,11,0,1,0,22,11,11,11,0,0,0,11,0" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M11,5.68a3.07,3.07,0,0,0-2.12.71A2.41,2.41,0,0,0,8.1,8.26H9.42a1.34,1.34,0,0,1,.44-1A1.73,1.73,0,0,1,11,6.84a1.52,1.52,0,0,1,1.15.42,1.68,1.68,0,0,1,.39,1.18A2.14,2.14,0,0,1,12,9.89l-.94,1A3.39,3.39,0,0,0,10.31,12a4,4,0,0,0-.19,1.35h1.32A2.4,2.4,0,0,1,12,11.63l.78-.77A3.57,3.57,0,0,0,13.9,8.39a2.65,2.65,0,0,0-.75-2A3,3,0,0,0,11,5.68m-.2,9.13a.72.72,0,0,0-.58.22.74.74,0,0,0-.2.54.72.72,0,0,0,.2.54.75.75,0,0,0,.58.22.79.79,0,0,0,.59-.22.77.77,0,0,0,.2-.54.78.78,0,0,0-.2-.54.76.76,0,0,0-.59-.22" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.78 21.22" id="ic_remove">
+    <path d="M17.28,5.91H.5a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5H17.28a.5.5,0,0,1,.5.5.51.51,0,0,1-.5.5" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M17.28,3.9H.5A.5.5,0,0,1,0,3.4a.5.5,0,0,1,.5-.5H17.28a.51.51,0,0,1,.5.5.5.5,0,0,1-.5.5" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M4.23,15.18V8.41a.5.5,0,0,1,.5-.5.5.5,0,0,1,.5.5v6.77a.5.5,0,0,1-.5.5.5.5,0,0,1-.5-.5" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M15,5.91a.61.61,0,0,1,.61.61V19.61a.62.62,0,0,1-.61.61H2.83a.62.62,0,0,1-.61-.61V6.52a.61.61,0,0,1,.61-.61H15m0-1H2.83A1.61,1.61,0,0,0,1.22,6.52V19.61a1.61,1.61,0,0,0,1.61,1.61H15a1.61,1.61,0,0,0,1.61-1.61V6.52A1.61,1.61,0,0,0,15,4.91" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M11,1a.45.45,0,0,1,.45.44V2.91H6.36V1.44A.44.44,0,0,1,6.8,1H11m0-1H6.8A1.45,1.45,0,0,0,5.36,1.44V3.91h7.06V1.44A1.45,1.45,0,0,0,11,0" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 14.23 14.23" id="ic_search">
+    <path d="M8.4,1A4.84,4.84,0,1,1,3.57,5.83,4.83,4.83,0,0,1,8.4,1m0-1a5.84,5.84,0,1,0,5.83,5.83A5.83,5.83,0,0,0,8.4,0" transform="translate(0 0)" fill="currentColor"></path>
+    <line x1="4.48" y1="9.75" x2="0.5" y2="13.73" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10"></line>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19 19.12" id="ic_review">
+    <path d="M.5,7.63h0a7.15,7.15,0,0,0,7.13,7.13h3l3.65,3.66a.67.67,0,0,0,.47.2h.09a.66.66,0,0,0,.66-.67V13.46A7.12,7.12,0,0,0,11.37.5H7.63A7.15,7.15,0,0,0,.5,7.63Z" transform="translate(0 0)" fill="none" stroke="currentColor" stroke-miterlimit="10"></path>
+    <path d="M12.65,6.66H6.35a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5h6.3a.5.5,0,0,1,.5.5.5.5,0,0,1-.5.5" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M12.65,9.62H6.35a.5.5,0,0,1-.5-.5.5.5,0,0,1,.5-.5h6.3a.5.5,0,0,1,.5.5.5.5,0,0,1-.5.5" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 13.99 13.36" id="ic_star">
+    <path d="M7.51.32,9.22,3.8a.57.57,0,0,0,.43.31l3.84.56a.58.58,0,0,1,.32,1L11,8.36a.58.58,0,0,0-.16.5l.66,3.83a.58.58,0,0,1-.84.6l-3.43-1.8a.55.55,0,0,0-.53,0l-3.44,1.8a.57.57,0,0,1-.83-.6l.66-3.83A.56.56,0,0,0,3,8.36L.17,5.65a.58.58,0,0,1,.32-1l3.84-.56a.54.54,0,0,0,.43-.31L6.48.32a.57.57,0,0,1,1,0" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 20" id="ic_telegram">
+    <path d="M10,0A10,10,0,1,0,20,10,10,10,0,0,0,10,0m5.27,6.48c-.58,2.71-1.15,5.43-1.73,8.14-.14.64-.59.81-1.12.42l-2.66-2L9.62,13,8.2,14.36a.76.76,0,0,1-.59.24.3.3,0,0,1-.3-.23L6.23,11a.26.26,0,0,0-.2-.19L3.49,10a1.43,1.43,0,0,1-.38-.17.27.27,0,0,1,0-.45,1.61,1.61,0,0,1,.5-.31L6.69,7.88l7.93-3.06c.51-.19.9.08.84.63a9.3,9.3,0,0,1-.19,1" transform="translate(0 0)" fill="currentColor"></path>
+    <path d="M12.72,6.82l-6,3.76a.18.18,0,0,0-.09.25c.15.42.29.85.42,1.28s.37,1.12.55,1.69h0a.24.24,0,0,0,0-.08c.06-.61.12-1.23.17-1.84A.47.47,0,0,1,8,11.54l2.44-2.2L13.16,6.9a1,1,0,0,0,.11-.21.71.71,0,0,0-.25,0,1.2,1.2,0,0,0-.3.15" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 19.56" id="ic_user">
+    <path d="M10.52,1.5a4.86,4.86,0,0,1,4.85,4.86V7a4.84,4.84,0,0,1-2.3,4.12l-.65.4.22.74a2.24,2.24,0,0,0,1,1.37c.16.09.43.22.95.47l.17.09c1,.48,2.34,1.14,3.13,1.62a2.85,2.85,0,0,1,1.53,2.34c0,.22,0,.7,0,.89H1.55c0-.19,0-.67,0-.89a2.83,2.83,0,0,1,1.54-2.33c.78-.49,2.14-1.15,3.13-1.63l.17-.09c.51-.25.79-.38,1-.47a2.27,2.27,0,0,0,1-1.37l.23-.74L8,11.14A4.83,4.83,0,0,1,5.66,7V6.36A4.87,4.87,0,0,1,10.52,1.5m0-1h0A5.88,5.88,0,0,0,4.66,6.36V7a5.86,5.86,0,0,0,2.78,5,1.3,1.3,0,0,1-.56.79l-1.06.53c-1,.49-2.39,1.17-3.22,1.67a3.86,3.86,0,0,0-2,3.12c0,.28,0,1,0,1l0,.95h20l0-.95s0-.73,0-1a3.88,3.88,0,0,0-2-3.12c-.82-.5-2.21-1.18-3.22-1.67l-1.05-.53A1.3,1.3,0,0,1,13.6,12a5.87,5.87,0,0,0,2.77-5V6.36A5.87,5.87,0,0,0,10.52.5" transform="translate(-0.52 -0.5)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26.74 16.03" id="ic_vkontakte">
+    <path d="M14.28,16c.89,0,.89-1.28.89-1.78A1.91,1.91,0,0,1,17,12.46c.89,0,2.42,1.53,3.56,2.67.89.89.89.89,1.78.89H25a1.8,1.8,0,0,0,1.78-1.78c0-.56-.61-1.5-2.67-3.56-1.78-1.78-2.69-.86,0-4.45C25.71,4,26.9,2.06,26.7,1.49S21.94.08,21.4.89a32.62,32.62,0,0,0-2.67,4.45C17.84,7.12,17.75,8,17,8s-.89-1.73-.89-2.67c0-2.94.42-5-.89-5.34H12.5A5.14,5.14,0,0,0,9.83.89s-1.11.86-.89.89,1.78-.37,1.78.89V4.45S10.73,8,9.83,8,7.16,4.45,5.38,1.78C4.68.73,4.49.89,3.6.89S1.82.93.93.93s-1,.57-.89.85C1.82,6.23,3.1,9,6.48,12.55c3.1,3.23,5.17,3.4,6.91,3.47.44,0,0,0,.89,0" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.92 17.51" id="ic_youtube">
+    <path d="M12.62,17.51c-2.8-.09-5.46-.15-8.13-.26A8.92,8.92,0,0,1,2.78,17,2.85,2.85,0,0,1,.63,15.09a10.17,10.17,0,0,1-.49-2.56A50.49,50.49,0,0,1,.05,6.38,15.4,15.4,0,0,1,.44,2.93a3.51,3.51,0,0,1,1-1.81,3.11,3.11,0,0,1,2-.86C5.51.16,7.6,0,9.7,0c2.82,0,5.65,0,8.48.06a34.43,34.43,0,0,1,3.66.25,2.85,2.85,0,0,1,2.38,1.84,8.49,8.49,0,0,1,.54,2.58,49.06,49.06,0,0,1,.09,6.64,14,14,0,0,1-.43,3.34A3.09,3.09,0,0,1,22,17.09a8.75,8.75,0,0,1-1.54.17l-7.85.25M9.91,11.94l6.7-3.48L9.91,5Z" transform="translate(0 0)" fill="currentColor"></path>
+  </symbol>
+</svg>

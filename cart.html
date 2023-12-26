@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<!-- Адаптирование страницы для мобильных устройств -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+		<!-- Запрет распознования номера телефона -->
+		<meta name="format-detection" content="telephone=no">
+		<meta name="SKYPE_TOOLBAR" content ="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+		<!-- Заголовок страницы -->
+		<title>Заголовок страницы</title>
+
+		<!-- Данное значение часто используют(использовали) поисковые системы -->
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+
+		<!-- Традиционная иконка сайта, размер 16x16, прозрачность поддерживается. Рекомендуемый формат: .ico или .png -->
+		<link rel="shortcut icon" href="favicon.png">
+
+		<!-- Изменение цвета панели моб. браузера -->
+		<meta name="msapplication-TileColor" content="#263938">
+		<meta name="theme-color" content="#263938">
+
+		<!-- Подключение файлов стилей -->
+		<link rel="stylesheet" href="css/swiper-bundle.min.css" async>
+		<link rel="stylesheet" href="css/swiper.css" async>
+		<link rel="stylesheet" href="css/fancybox.css" async>
+		<link rel="stylesheet" href="css/styles.css" async>
+
+		<link rel="stylesheet" href="css/response_1279.css" media="print, (max-width: 1279px)" async>
+		<link rel="stylesheet" href="css/response_1023.css" media="print, (max-width: 1023px)" async>
+		<link rel="stylesheet" href="css/response_767.css" media="print, (max-width: 767px)" async>
+		<link rel="stylesheet" href="css/response_479.css" media="(max-width: 479px)" async>
+	</head>
+
+	<body>
+		<div class="wrap">
+			<div class="main">
+				<header>
+					<button class="mob_close_btn"></button>
+
+					<div class="mob_scroll">
+						<div class="cont row">
+							<a href="/" class="logo">
+								<img src="images/logo.svg" alt="">
+							</a>
+
+							<div class="data">
+								<button class="callback_btn modal_btn" data-modal="#callback_modal">ОБРАТНАЯ СВЯЗЬ</button>
+
+								<div class="search">
+									<form action="">
+										<input type="text" name="" value="" class="input" placeholder="Поиск">
+
+										<button type="submit" class="submit_btn">
+											<svg class="icon"><use xlink:href="images/sprite.svg#ic_search"></use></svg>
+										</button>
+									</form>
+								</div>
+
+								<div class="links">
+									<div><a href="/" class="favorite_link">
+										<div class="icon new">
+											<svg><use xlink:href="images/sprite.svg#ic_favorite"></use></svg>
+										</div>
+										<span>3</span>
+									</a></div>
+
+									<div><a href="/" class="account_link">
+										<div class="icon">
+											<svg><use xlink:href="images/sprite.svg#ic_user"></use></svg>
+										</div>
+									</a></div>
+
+									<div class="mob_hide"><a href="/" class="cart_link">
+										<div class="icon new">
+											<svg><use xlink:href="images/sprite.svg#ic_buy"></use></svg>
+										</div>
+										<span>2</span>
+									</a></div>
+								</div>
+
+								<nav class="menu row">
+									<div class="menu_item">
+										<a href="/" class="sub_link">
+											<span>ПРОБЛЕМА</span>
+											<svg class="arr"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+										</a>
+
+										<div class="sub_menu columns">
+											<div><a href="/">Витилиго</a></div>
+											<div><a href="/">Дерматит</a></div>
+											<div><a href="/">Контактный дерматит</a></div>
+											<div><a href="/">Морщины</a></div>
+											<div><a href="/">Ожоги</a></div>
+											<div><a href="/">Хронический зуд</a></div>
+											<div><a href="/">Розацеа</a></div>
+											<div><a href="/">Экзема</a></div>
+											<div><a href="/">Фиброз</a></div>
+											<div><a href="/">Себорейный дерматит</a></div>
+											<div><a href="/">Шрамы</a></div>
+											<div><a href="/">Рубцы</a></div>
+										</div>
+									</div>
+
+									<div class="menu_item">
+										<a href="/" class="sub_link">
+											<span>ЛИНЕЙКИ</span>
+											<svg class="arr"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+										</a>
+
+										<div class="sub_menu center">
+											<div class="cat_color1"><a href="/">
+												<span>Антивозрастной уход</span>
+												<div class="sep"></div>
+												<span>DUOLYS</span>
+											</a></div>
+
+											<div class="cat_color2"><a href="/">
+												<span>Против покраснения</span></span>
+												<div class="sep"></div>
+												<span>ROSAKALM</span>
+											</a></div>
+
+											<div class="cat_color3"><a href="/">
+												<span>Жирная и проблемная кожа</span>
+												<div class="sep"></div>
+												<span>SÉBIONEX</span>
+											</a></div>
+
+											<div class="cat_color4"><a href="/">
+												<span>Поврежденная и раздраженная кожа</span>
+												<div class="sep"></div>
+												<span>CICASTIM</span>
+											</a></div>
+
+											<div class="cat_color5"><a href="/">
+												<span>Гиперпигментация кожи</span>
+												<div class="sep"></div>
+												<span>DEPIWHITE RANGE</span>
+											</a></div>
+
+											<div class="cat_color6"><a href="/">
+												<span>Средства для волос и ногтей</span>
+												<div class="sep"></div>
+												<span>NOVOPHANE</span>
+											</a></div>
+
+											<div class="cat_color7"><a href="/">
+												<span>Чувствительная кожа</span>
+												<div class="sep"></div>
+												<span>SENSITELIAL</span>
+											</a></div>
+
+											<div class="cat_color8"><a href="/">
+												<span>Зуд</span>
+												<div class="sep"></div>
+												<span>SEDACALM</span>
+											</a></div>
+
+											<div class="cat_color9"><a href="/">
+												<span>Сухая кожа</span>
+												<div class="sep"></div>
+												<span>SENSITELIAL DRY SKIN</span>
+											</a></div>
+
+											<div class="cat_color10"><a href="/">
+												<span>Защита от солнца</span>
+												<div class="sep"></div>
+												<span>SENSITÉLIAL SUNSCREENS</span>
+											</a></div>
+
+											<div class="cat_color11"><a href="/">
+												<span>Витилиго</span>
+												<div class="sep"></div>
+												<span>VITIX VITICOLOR</span>
+											</a></div>
+
+											<div class="cat_color12"><a href="/">
+												<span>Угревая сыпь (прыщи)</span>
+												<div class="sep"></div>
+												<span>ZINDACLIN 1% GEL</span>
+											</a></div>
+
+											<div class="cat_color13"><a href="/">
+												<span>Гиперпигментация кожи</span>
+												<div class="sep"></div>
+												<span>DEPIWHITE RANGE</span>
+											</a></div>
+
+											<div class="cat_color14"><a href="/">
+												<span>Покраснение и раздражение кожи</span>
+												<div class="sep"></div>
+												<span>TRIGOPAX</span>
+											</a></div>
+
+											<div class="cat_color15"><a href="/">
+												<span>Контагиозный моллюск</span>
+												<div class="sep"></div>
+												<span>MOLUTREX</span>
+											</a></div>
+
+											<div class="cat_color16"><a href="/">
+												<span>Склонность к Акне</span>
+												<div class="sep"></div>
+												<span>BORÉADE</span>
+											</a></div>
+
+											<div class="cat_color17"><a href="/">
+												<span>Высокая защита от солнца</span>
+												<div class="sep"></div>
+												<span>MEDISUN</span>
+											</a></div>
+
+											<div class="cat_color18"><a href="/">
+												<span>Кожа с покраснениями</span>
+												<div class="sep"></div>
+												<span>QUASIX</span>
+											</a></div>
+
+											<div class="cat_color19"><a href="/">
+												<span>От зуда и келлоидных рубцов</span>
+												<div class="sep"></div>
+												<span>SODERMIX</span>
+											</a></div>
+										</div>
+									</div>
+
+									<div class="menu_item">
+										<a href="/">
+											<span>СОТРУДНИЧЕСТВО</span>
+										</a>
+									</div>
+
+									<div class="menu_item static">
+										<a href="/" class="sub_link">
+											<span>ПРОДУКЦИЯ</span>
+											<svg class="arr"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+										</a>
+
+										<div class="sub_menu full_w">
+											<div class="cont">
+												<div class="columns">
+													<div class="item cat_color1">
+														<div class="main">
+															<a href="/"><span>Демодекоз</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Квазикс-гель для жирной кожи</a></div>
+															<div><a href="/">Квазикс-крем для кожи сухого и смешанного типа</a></div>
+															<div><a href="/">Квазикс крем-протектор с SPF-30 для чувствительной кожи</a></div>
+															<div><a href="/">Набор №11</a></div>
+															<div><a href="/">Набор №12</a></div>
+															<div><a href="/">Набор №13</a></div>
+														</div>
+													</div>
+
+													<div class="item cat_color2">
+														<div class="main">
+															<a href="/"><span>Гипертрофические рубцы</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Содермикс крем</a></div>
+															<div><a href="/">Набор №8</a></div>
+															<div><a href="/">Набор №9</a></div>
+															<div><a href="/">Набор №10</a></div>
+														</div>
+													</div>
+
+													<div class="item cat_color3">
+														<div class="main">
+															<a href="/"><span>Келоидные шрамы</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Витикс гель</a></div>
+															<div><a href="/">Витикс таблетки</a></div>
+															<div><a href="/">Витиколор гель</a></div>
+														</div>
+													</div>
+
+													<div class="item cat_color4">
+														<div class="main">
+															<a href="/"><span>Морщины и омоложение</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Содермикс крем</a></div>
+															<div><a href="/">Квазикс-гель для жирной кожи</a></div>
+															<div><a href="/">Набор №12</a></div>
+														</div>
+													</div>
+
+													<div class="item cat_color5">
+														<div class="main">
+															<a href="/"><span>Атопический дерматит</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Содермикс крем</a></div>
+															<div><a href="/">Набор №8</a></div>
+															<div><a href="/">Набор №9</a></div>
+														</div>
+													</div>
+
+													<div class="item cat_color6">
+														<div class="main">
+															<a href="/"><span>Хронический зуд</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Квазикс-гель для жирной кожи</a></div>
+															<div><a href="/">Квазикс-крем для кожи сухого типа</a></div>
+															<div><a href="/">Квазикс крем-протектор с SPF-30</a></div>
+															<div><a href="/">Набор №11</a></div>
+														</div>
+													</div>
+
+													<div class="item cat_color7">
+														<div class="main">
+															<a href="/"><span>Витилиго</span></a>
+														</div>
+
+														<div class="sub">
+															<div><a href="/">Содермикс крем</a></div>
+															<div><a href="/">Набор №8</a></div>
+															<div><a href="/">Витикс гель</a></div>
+															<div><a href="/">Витикс таблетки</a></div>
+															<div><a href="/">Витиколор гель</a></div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</nav>
+							</div>
+						</div>
+					</div>
+				</header>
+
+
+				<section class="mob_header">
+					<div class="cont row">
+						<button class="mob_menu_btn">
+							<span></span>
+						</button>
+
+						<a href="/" class="logo">
+							<img src="images/logo.svg" alt="">
+						</a>
+
+						<div class="links">
+							<div class="search modal_cont">
+								<button class="btn mini_modal_btn" data-modal-id="#mob_search_modal">
+									<svg class="icon"><use xlink:href="images/sprite.svg#ic_search"></use></svg>
+								</button>
+
+								<div class="mini_modal" id="mob_search_modal">
+									<form action="">
+										<input type="text" name="" value="" class="input" placeholder="Поиск">
+
+										<button type="submit" class="submit_btn">
+											<svg class="icon"><use xlink:href="images/sprite.svg#ic_search"></use></svg>
+										</button>
+									</form>
+
+									<button class="close_btn">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_close"></use></svg>
+									</button>
+								</div>
+							</div>
+
+							<div><a href="/" class="cart_link">
+								<div class="icon new">
+									<svg><use xlink:href="images/sprite.svg#ic_buy"></use></svg>
+								</div>
+								<span>2</span>
+							</a></div>
+						</div>
+					</div>
+				</section>
+
+
+				<section class="page_head">
+					<div class="cont">
+						<div class="breadcrumbs">
+							<a href="/">ГЛАВНАЯ</a> <span class="sep"></span>
+							<span class="current">Корзина</span>
+						</div>
+
+						<h1 class="page_title">Корзина</h1>
+					</div>
+				</section>
+
+
+				<section class="cart_info block">
+					<div class="cont">
+						<div class="titles">
+							<div class="col_info">ТОВАР</div>
+							<div class="col_price">ЦЕНА</div>
+							<div class="col_amount">КОЛ-ВО</div>
+							<div class="col_total_price">СТОИМОСТЬ</div>
+							<div class="col_action"></div>
+						</div>
+
+
+						<div class="product">
+							<div class="col_info row">
+								<a href="/" class="thumb" target="_blank">
+									<img data-src="images/tmp/product_thumb.png" alt="" class="lazyload">
+								</a>
+
+								<div class="info">
+									<div class="name">
+										<a href="/" target="_blank">Содермикс крем</a>
+									</div>
+
+									<div class="brand">LSI Silderma</div>
+									<div class="volume">30 мл</div>
+								</div>
+							</div>
+
+							<div class="col_price price" data-column="ЦЕНА">
+								<div>1 990 Р.</div>
+								<div class="old">2 680 Р.</div>
+							</div>
+
+							<div class="col_amount" data-column="КОЛ-ВО">
+								<div class="amount">
+									<button type="button" class="minus">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+									</button>
+
+									<input type="text" value="1" class="input"
+									  data-minimum="1" data-maximum="999" data-step="1" data-unit="" maxlength="3">
+
+									<button type="button" class="plus">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+									</button>
+								</div>
+							</div>
+
+							<div class="col_total_price price" data-column="СТОИМОСТЬ">
+								<div>1 990 Р.</div>
+							</div>
+
+							<div class="col_action">
+								<button class="delete_btn">
+									<svg class="icon"><use xlink:href="images/sprite.svg#ic_remove"></use></svg>
+								</button>
+							</div>
+						</div>
+
+
+						<div class="product">
+							<div class="col_info row">
+								<a href="/" class="thumb" target="_blank">
+									<img data-src="images/tmp/product_thumb2.png" alt="" class="lazyload">
+								</a>
+
+								<div class="info">
+									<div class="name">
+										<a href="/" target="_blank">Витиколор крем</a>
+									</div>
+
+									<div class="brand">ACM Crowford</div>
+									<div class="volume">30 мл</div>
+								</div>
+							</div>
+
+							<div class="col_price price" data-column="ЦЕНА">
+								<div>1 640 Р.</div>
+							</div>
+
+							<div class="col_amount" data-column="КОЛ-ВО">
+								<div class="amount">
+									<button type="button" class="minus">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+									</button>
+
+									<input type="text" value="1" class="input"
+									  data-minimum="1" data-maximum="999" data-step="1" data-unit="" maxlength="3">
+
+									<button type="button" class="plus">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+									</button>
+								</div>
+							</div>
+
+							<div class="col_total_price price" data-column="СТОИМОСТЬ">
+								<div>1 640 Р..</div>
+							</div>
+
+							<div class="col_action">
+								<button class="delete_btn">
+									<svg class="icon"><use xlink:href="images/sprite.svg#ic_remove"></use></svg>
+								</button>
+							</div>
+						</div>
+
+
+						<div class="cart_footer">
+							<div class="col_promocode promocode">
+								<div class="info">
+									<div class="title">Введите промокод, чтобы получить скидку</div>
+
+									<div class="desc">Скидки по промо коду не применяются к товарам, на которые уже действует скидка.</div>
+								</div>
+
+								<form action="" class="form">
+									<div class="field">
+										<input type="email" name="" value="" class="input">
+										<div class="label">Ваш промо код</div>
+									</div>
+
+									<div class="submit">
+										<button type="submit" class="submit_btn">ПРИМЕНИТЬ</button>
+									</div>
+								</form>
+							</div>
+
+							<div class="col_total_price total_price">
+								<div>Итого</div>
+								<div class="val">3 630 Р.</div>
+							</div>
+
+							<div class="col_action">
+								<button class="btn scroll_btn" data-anchor="#checkout_info">ОФОРМИТЬ ЗАКАЗ</button>
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+				<section class="checkout_info block" id="checkout_info">
+					<div class="cont">
+						<div class="block_head">
+							<div class="title">Оформление заказа</div>
+
+							<div class="desc full_w text_block">
+								<p>Если ранее вы были зарегистрированы на сайте, <a href="/">авторизуйтесь</a></p>
+							</div>
+						</div>
+
+						<div class="form">
+							<div class="col">
+								<div class="title">Данные покупателя</div>
+
+								<div class="line">
+									<div class="field">
+										<input type="text" name="" value="" class="input">
+										<div class="label">Фамилия <span class="required">*</span></div>
+									</div>
+								</div>
+
+								<div class="line">
+									<div class="field">
+										<input type="text" name="" value="" class="input">
+										<div class="label">Имя <span class="required">*</span></div>
+									</div>
+								</div>
+
+								<div class="line">
+									<div class="field">
+										<input type="text" name="" value="" class="input">
+										<div class="label">Отчество <span class="required">*</span></div>
+									</div>
+								</div>
+
+								<div class="line">
+									<div class="field">
+										<input type="email" name="" value="" class="input">
+										<div class="label">E-mail <span class="required">*</span></div>
+									</div>
+								</div>
+
+								<div class="line">
+									<div class="field">
+										<input type="tel" name="" value="" class="input">
+										<div class="label">Телефон <span class="required">*</span></div>
+									</div>
+								</div>
+							</div>
+
+
+							<div class="col">
+								<div class="title">Способ и адрес доставки</div>
+
+								<div class="line">
+									<div class="field">
+										<select name="">
+											<option value="1" selected>Доставка по России</option>
+											<option value="2">Доставка по России</option>
+											<option value="3">Доставка по России</option>
+											<option value="4">Доставка по России</option>
+										</select>
+
+										<svg class="arr"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+									</div>
+
+									<div class="exp">В любой населенный пункт (рассчитывается менеджером)</div>
+								</div>
+
+								<div class="line">
+									<div class="field">
+										<input type="text" name="" value="" class="input">
+										<div class="label">Город <span class="required">*</span></div>
+									</div>
+								</div>
+
+								<div class="columns row">
+									<div class="line width4of5">
+										<div class="field">
+											<input type="text" name="" value="" class="input">
+											<div class="label">Улица <span class="required">*</span></div>
+										</div>
+									</div>
+
+									<div class="line width1of5">
+										<div class="field">
+											<input type="text" name="" value="" class="input">
+											<div class="label">Дом <span class="required">*</span></div>
+										</div>
+									</div>
+
+									<div class="line width2of5">
+										<div class="field">
+											<input type="text" name="" value="" class="input">
+											<div class="label">Корпус</div>
+										</div>
+									</div>
+
+									<div class="line width2of5">
+										<div class="field">
+											<input type="text" name="" value="" class="input">
+											<div class="label">Квартира/офис <span class="required">*</span></div>
+										</div>
+									</div>
+
+									<div class="line width1of5">
+										<div class="field">
+											<input type="text" name="" value="" class="input">
+											<div class="label">Этаж</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+							<div class="col">
+								<div class="title">Способ оплаты</div>
+
+								<div class="line">
+									<div class="field">
+										<select name="">
+											<option value="1" selected>Оплата онлайн</option>
+											<option value="2">Наличные курьеру</option>
+											<option value="3">Банковский перевод</option>
+										</select>
+
+										<svg class="arr"><use xlink:href="images/sprite.svg#ic_arr"></use></svg>
+									</div>
+								</div>
+
+								<div class="line">
+									<div class="field">
+										<textarea name=""></textarea>
+										<div class="label">Комментарий к заказу</div>
+									</div>
+								</div>
+
+								<div class="line agree">
+									Нажимая на кнопку «Отправить», я соглашаюсь на обработку моих персональных данных и принимаю <a href="/" target="_blank">Политику конфиденциальности</a>.
+								</div>
+
+								<div class="submit">
+									<button type="submit" class="submit_btn">ОФОРМИТЬ</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+
+
+			<footer>
+				<div class="info">
+					<div class="cont row">
+						<div class="logo">
+							<img src="images/logo_white.svg" alt="">
+						</div>
+
+						<div class="links">
+							<div class="title">О КОМПАНИИ</div>
+
+							<div class="items">
+								<div><a href="/">Корпоративным клиентам</a></div>
+								<div><a href="/">Оферта</a></div>
+								<div><a href="/">Политика конфиденциальности</a></div>
+								<div><a href="/">Контакты</a></div>
+								<div><a href="/">Карта сайта</a></div>
+								<div><a href="/">Сертификаты</a></div>
+							</div>
+						</div>
+
+						<div class="links">
+							<div class="title">ПОДДЕРЖКА КЛИЕНТОВ</div>
+
+							<div class="items">
+								<div><a href="/">Доставка и оплата</a></div>
+								<div><a href="/">Гарантии и возврат</a></div>
+								<div><a href="/">Отзывы</a></div>
+								<div><a href="/">Советы дерматологов</a></div>
+								<div><a href="/">Консультация дерматолога</a></div>
+							</div>
+						</div>
+
+						<div class="contacts">
+							<div class="time">Ответим на все ваши вопросы<br> ежедневно с 10:00 до 19:00 по МСК</div>
+
+							<button class="callback_btn modal_btn" data-modal="#callback_modal">ОБРАТНАЯ СВЯЗЬ</button>
+
+							<div class="socials">
+								<div class="title">МЫ В СОЦСЕТЯХ</div>
+
+								<div class="items">
+									<a href="/" target="_blank" rel="noopener nofollow" class="telegram_link">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_telegram"></use></svg>
+									</a>
+
+									<a href="/" target="_blank" rel="noopener nofollow" class="vk_link">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_vkontakte"></use></svg>
+									</a>
+
+									<a href="/" target="_blank" rel="noopener nofollow" class="youtube_link">
+										<svg class="icon"><use xlink:href="images/sprite.svg#ic_youtube"></use></svg>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="bottom">
+					<div class="cont row">
+						<div class="copyright">&copy; 2022 Epidermica</div>
+
+						<div class="pp_link">
+							<a href="/">Политика обработки персональных данных</a>
+						</div>
+
+						<div class="creator">
+							<a href="/" target="_blank" rel="noopener">Разработка сайта — <span>Точка.ру</span></a>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+
+			<div class="overlay"></div>
+		</div>
+
+
+		<div class="supports_error">
+			Ваш браузер устарел рекомендуем обновить его до последней версии<br> или использовать другой более современный.
+		</div>
+
+
+		<section class="modal" id="callback_modal">
+			<div class="modal_title">Обратная связь</div>
+
+			<div class="modal_data">
+				<form action="" class="form">
+					<div class="line">
+						<div class="field">
+							<input type="text" name="" value="" class="input">
+							<div class="label">Ваше имя <span class="required">*</span></div>
+						</div>
+					</div>
+
+					<div class="line">
+						<div class="field">
+							<input type="email" name="" value="" class="input">
+							<div class="label">E-mail <span class="required">*</span></div>
+						</div>
+					</div>
+
+					<div class="line">
+						<div class="field">
+							<textarea name=""></textarea>
+							<div class="label">Ваш вопрос</div>
+						</div>
+					</div>
+
+					<div class="line agree">
+						Нажимая на кнопку «Отправить», я соглашаюсь на обработку моих персональных данных и принимаю <a href="/" target="_blank">Политику конфиденциальности</a>.
+					</div>
+
+					<div class="submit">
+						<button type="submit" class="submit_btn">ОТПРАВИТЬ</button>
+					</div>
+				</form>
+			</div>
+		</section>
+
+
+		<!-- Подключение javascript файлов -->
+		<script src="js/jquery-3.5.0.min.js"></script>
+		<script src="js/swiper-bundle.min.js"></script>
+		<script src="js/inputmask.min.js"></script>
+		<script src="js/nice-select.js"></script>
+		<script src="js/fancybox.min.js"></script>
+		<script src="js/functions.js"></script>
+		<script src="js/scripts.js"></script>
+	</body>
+</html>
